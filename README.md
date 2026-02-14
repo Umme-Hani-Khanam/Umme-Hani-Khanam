@@ -16,6 +16,7 @@ I prefer working on real workflows: authentication, data integrity, and user int
 ## 🎓 Education
 
 **Bachelors of Engineering in Computer Science**
+
 **EmpowerHer ,Masai School**
 ---
 
@@ -69,15 +70,17 @@ Key Work Done
 
 **Languages & Frameworks:** Node.js, Express.js
 
-### Database/skillicons.dev/icons?i=nodejs,express" />
 
-</p>
+
+
 
 ### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://supabase.com/favicon.ico" width="40"/>
+  
+**Database :MYSQL, SUPABASE**
 </p>
 
 ### Programming Languages
